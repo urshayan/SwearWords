@@ -1,0 +1,2 @@
+# SwearWords
+trying out javascript
